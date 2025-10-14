@@ -46,6 +46,9 @@ transition: cover 0.5s ease;
 }
 
 .navdes h3{
+
+height: 20px;
+
 font-family:serif;
 background-color: rgba(0, 0, 0, 0.233);
 transition: all 0.1s ease-in-out;
